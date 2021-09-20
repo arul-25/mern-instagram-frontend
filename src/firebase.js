@@ -1,13 +1,13 @@
 import firebase from "firebase"
 
 const firebaseApp = firebase.initializeApp({
-	apiKey: "AIzaSyCrRa0CdcStkiCsH-PgnyqTzrHi0APZ7Bo",
-	authDomain: "react-instagram-clone-b7239.firebaseapp.com",
-	projectId: "react-instagram-clone-b7239",
-	storageBucket: "react-instagram-clone-b7239.appspot.com",
-	messagingSenderId: "466208532109",
-	appId: "1:466208532109:web:3e6842cea8fa24fb31e4c4",
-	measurementId: "G-XCC1R3DVHB"
+	apiKey: "AIzaSyD_zgGnjB_0RgIw50ZadOoKHv3TFhbfvPs",
+	authDomain: "mern-instagram-clone-38ad2.firebaseapp.com",
+	projectId: "mern-instagram-clone-38ad2",
+	storageBucket: "mern-instagram-clone-38ad2.appspot.com",
+	messagingSenderId: "77527754575",
+	appId: "1:77527754575:web:2ba6f6f82e6e7f798e873a",
+	measurementId: "G-7XPJRX3SZF"
 })
 
 const db = firebaseApp.firestore()
