@@ -4,7 +4,7 @@ this app build with react and firebase
 
 # Link
 
-you can check app online in [this](https://react-instagram-clone-b7239.web.app/)
+you can check app online in [this](https://mern-instagram-clone-379ba.web.app/)
 
 # Getting Started with Create React App
 
